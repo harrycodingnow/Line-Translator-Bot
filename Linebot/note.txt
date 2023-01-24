@@ -1,0 +1,9 @@
+Channel Secret:
+64d5776ef72131c31b0d984f20550a82
+
+Channel access token:
+oCxMpz4SLBRSEE60cURkiq/7UUs2vVMnWfdqmP3+MbfiBqMmADDRr6NkaLkooKnOi6NlRvmsvvswEl3k5BoBwUuBfGGx6BskLKyNll/fotFIziSQLM56FPUDv4sYPgF42yrunqbUQgjW3hyH0wwvYwdB04t89/1O/w1cDnyilFU=
+
+Install Linebotsdk
+Install ngrok
+Install googletran api
